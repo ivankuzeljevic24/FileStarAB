@@ -1,0 +1,34 @@
+[
+    {
+        "id": "1",
+        "name": "Giacomo Guilizzoni",
+        "jobTitle": "Founder & CEO",
+        "age": 40,
+        "nickname": "Peldi",
+        "isEmployee": false
+    },
+    {
+        "id": "2",
+        "name": "Marco Botton",
+        "jobTitle": "Tuttofare",
+        "age": 38,
+        "nickname": "",
+        "isEmployee": true
+    },
+    {
+        "id": "3",
+        "name": "Mariah Maclachlan",
+        "jobTitle": "Better Half",
+        "age": 41,
+        "nickname": "Patata",
+        "isEmployee": false
+    },
+    {
+        "id": "4",
+        "name": "Valerie Liberty",
+        "jobTitle": "Head Chef",
+        "age": 67,
+        "nickname": "Val",
+        "isEmployee": true
+    }
+]
